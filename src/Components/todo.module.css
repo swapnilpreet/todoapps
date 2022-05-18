@@ -1,0 +1,24 @@
+.todos {
+    width: 40%;
+    margin: auto;
+  display: flex;
+  margin-left: 25%;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.check {
+  width: 20px !important;
+  height: 20px;
+}
+.strikeds{
+    text-decoration: line-through;
+}
+.red{
+    color:orange;
+}
+.green{
+    color:purple;
+}
+.ct{
+    color: rgb(12, 87, 62);
+}

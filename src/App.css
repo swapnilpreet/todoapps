@@ -1,0 +1,43 @@
+.counter {
+ border: 1px solid rgb(18, 85, 230);;
+  text-align: center;
+  background-color:rgb(18, 85, 230);
+}
+.counter button {
+  padding: 15px 15px;
+  margin: 1%;
+  border-radius: 1rem;
+  border: none;
+  color: white;
+  font-size: larger;
+  background-color: #07165a;
+}
+ 
+.todo{
+    border: 1px solid rgb(18, 85, 230);
+    width: 100%;
+    margin: auto;
+    height:1000px;
+    text-align: center;
+    font-size: larger;
+    background-color:rgb(18, 85, 230);
+}
+.todo input{
+    width: 300px;
+    height:40px;
+    border: none;
+    border-radius: 1rem;
+   
+}
+.todo button {
+    padding: 10px 15px;
+    margin: 1%;
+    border-radius: 1rem;
+    border: none;
+    color: white;
+    background-color: #001858;
+  }
+  .heading{
+    color: white;
+  }
+  
